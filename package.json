@@ -1,0 +1,21 @@
+{
+  "name": "shieldlinks",
+  "version": "1.0.0",
+  "description": "A scam/phishing link blocklist with auto-update support.",
+    "keywords": [
+    "security",
+    "phishing",
+    "scam",
+    "blocklist",
+    "discord",
+    "url",
+    "link",
+    "filter"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
