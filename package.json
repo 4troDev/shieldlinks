@@ -1,8 +1,8 @@
 {
   "name": "shieldlinks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A scam/phishing link blocklist with auto-update support.",
-    "keywords": [
+  "keywords": [
     "security",
     "phishing",
     "scam",
@@ -17,5 +17,13 @@
     "test": "node test.js"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/4troDev/shieldlinks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/4troDev/shieldlinks/issues"
+  },
+  "homepage": "https://github.com/4troDev/shieldlinks#readme"
 }

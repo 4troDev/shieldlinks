@@ -100,4 +100,4 @@ No blocklist is 100% complete – always combine with other security practices (
 
 ## 📜 License
 
-MIT License © 2025 – ShieldLink.4trodev.com @4trodev
+MIT License © 2025 – @4trodev
